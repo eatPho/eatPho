@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eatPho
 - 👀 Welcome!
 - 🌱 I live on Earth1.0
-- 💞️ Decentralization kai Centralization, which one is better?
+- 💞️ Decentralization kai Centralization
 - 📫 Conclusion: I love Mathematics
 
 <!---
